@@ -1,7 +1,7 @@
 {
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.5.9/AutoVozRec_IA.exe",
-    "changelog": "Atualizacao de teste da versao 4.5.9 para validar o auto update em producao no canal publico.",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.5.10/AutoVozRec_IA.exe",
+    "changelog": "Atualizacao de teste da versao 4.5.10 para validar a correcao do relancamento apos o auto update em producao.",
     "mandatory": false,
-    "sha256": "4BF1DC1FC41165A583FFB52355DBEDF70BF42C67BFC6D89DC02C1501261BC10D",
-    "version": "4.5.9"
+    "sha256": "05C21916A2154466F174E8C267FD9237EF464024534489B846A1950A3CBE2AB6",
+    "version": "4.5.10"
 }
