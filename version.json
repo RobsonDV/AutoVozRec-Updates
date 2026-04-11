@@ -1,0 +1,7 @@
+{
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.5.8/AutoVozRec_IA.exe",
+    "changelog": "Atualizacao da versao 4.5.8 com canal publico de updates, validacao de integridade por sha256 e melhorias na distribuicao do aplicativo.",
+    "mandatory": false,
+    "sha256": "ADA8745D4864623CBF33769C1CF6DE63F73A9086A65D098A90266F0B6111765C",
+    "version": "4.5.8"
+}
