@@ -1,7 +1,7 @@
 {
-    "version": "4.6.2",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.2/AutoVozRec_IA_win64.zip",
-    "sha256": "0A06255CE003E722976B4CD4196C0B50C4A6DCB51182C1B93F04E8E0F9714FCA",
+    "version": "4.6.3",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.3/AutoVozRec_IA_win64.zip",
+    "sha256": "f78f7e87cd76848904e17cd2bf974c78f61cf027e26a323d37f582ffb322f9c7",
     "mandatory": false,
-    "changelog": "Versao 4.6.2 para teste real no cliente - validacao do fluxo de auto update no Windows."
+    "changelog": "Versão 4.6.3 - Adiciona suporte a login usando CNPJ."
 }
