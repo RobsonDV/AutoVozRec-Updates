@@ -1,7 +1,7 @@
 {
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.5.10/AutoVozRec_IA.exe",
-    "changelog": "Atualizacao de teste da versao 4.5.10 para validar a correcao do relancamento apos o auto update em producao.",
+    "version": "4.6.1",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.1/AutoVozRec_IA_win64.zip",
+    "sha256": "5949CDC9C77D4175C729035E5924CB381C8EBE1FC9B3307A9A713D9D474DE1D5",
     "mandatory": false,
-    "sha256": "05C21916A2154466F174E8C267FD9237EF464024534489B846A1950A3CBE2AB6",
-    "version": "4.5.10"
+    "changelog": "Patch de validacao do fluxo de auto update silencioso na arquitetura 4.6.x."
 }
