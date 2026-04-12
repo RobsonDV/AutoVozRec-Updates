@@ -1,7 +1,7 @@
 {
-    "version": "4.6.3",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.3/AutoVozRec_IA_win64.zip",
-    "sha256": "f78f7e87cd76848904e17cd2bf974c78f61cf027e26a323d37f582ffb322f9c7",
+    "version": "4.6.4",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.4/AutoVozRec_IA_win64.zip",
+    "sha256": "ae141eb1314b1ec5eb377bb5e760c360fdc5b6164ac278aea16476d7830ce7c3",
     "mandatory": false,
-    "changelog": "Versão 4.6.3 - Adiciona suporte a login usando CNPJ."
+    "changelog": "Versão 4.6.4 - Suporte a login usando CNPJ em nova base de dados estrutural."
 }
