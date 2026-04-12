@@ -1,7 +1,7 @@
 {
     "version": "4.6.1",
     "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.1/AutoVozRec_IA_win64.zip",
-    "sha256": "5949CDC9C77D4175C729035E5924CB381C8EBE1FC9B3307A9A713D9D474DE1D5",
+    "sha256": "1DF625D3EB9B44B3133DE92E54362E6825669925F40C62CF8F4BEEC6F20408A0",
     "mandatory": false,
     "changelog": "Patch de validacao do fluxo de auto update silencioso na arquitetura 4.6.x."
 }
