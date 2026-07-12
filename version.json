@@ -1,7 +1,7 @@
 {
-    "version": "4.6.5",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.5/AutoVozRec_IA_win64.zip",
-    "sha256": "a9900798ba4af279327225a89ddd28ce4f4d13fcf5af3bb5744c01bd96a8980f",
+    "version": "4.6.6",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.6/AutoVozRec_IA_win64.zip",
+    "sha256": "2763a06407d3082b8725a96bbf3b78f973e80b893e31667fa15100372af2859a",
     "mandatory": false,
-    "changelog": "Versão 4.6.5 - Correção do login por CNPJ, correção do 'Iniciar com o Windows' (caminho com aspas + dados em %APPDATA%), limpeza de código morto e endurecimento do auto-update. Token removido do instalador."
+    "changelog": "Versão 4.6.6 - Reforço de estabilidade e redundância: scheduler não trava mais por erro isolado e recupera atrasos (PC suspenso), sistema não hiberna mais durante a automação, bandeja do sistema se recupera de falha, dados locais (sessão/estado/config) protegidos contra corrupção, correção no vínculo de licença por HWID, atualização agora exige verificação sha256 e reverte sozinha se falhar no meio, limpeza de código morto do update legado."
 }
