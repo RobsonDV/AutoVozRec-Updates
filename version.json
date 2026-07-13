@@ -1,7 +1,7 @@
 {
-    "version": "4.6.7",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.7/AutoVozRec_IA_win64.zip",
-    "sha256": "76354c3a3e4b41edf5a99b110fa2a34227d697f0e1260e84e9f91c08c7c28498",
+    "version": "4.6.8",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.8/AutoVozRec_IA_win64.zip",
+    "sha256": "ccd6d9a9b67ac0ad902fe2b490cbc53e5d8a80c73de42bd3778ca5743efc9545",
     "mandatory": false,
-    "changelog": "Versão 4.6.7 - Aviso de atualização já na tela de login (funciona mesmo sem conseguir logar) e monitoramento remoto: o app agora reporta versão e status da gravação/download diários, permitindo suporte proativo quando algo falha."
+    "changelog": "Versão 4.6.8 - O app agora verifica atualizações sozinho (ao abrir e 1x por dia, sem atrapalhar a gravação das 19h), rotação automática do arquivo de log, e o atualizador renovado (recuperação automática se o update falhar no meio) passa a ser entregue pelo próprio canal de atualização."
 }
