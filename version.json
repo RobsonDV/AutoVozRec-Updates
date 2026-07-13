@@ -1,7 +1,7 @@
 {
-    "version": "4.6.8",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.8/AutoVozRec_IA_win64.zip",
-    "sha256": "ccd6d9a9b67ac0ad902fe2b490cbc53e5d8a80c73de42bd3778ca5743efc9545",
+    "version": "4.6.9",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.9/AutoVozRec_IA_win64.zip",
+    "sha256": "b46302ac843f5b4aba98c2e3527a9371d45b3a3ac684490e1d799f0450792d06",
     "mandatory": false,
-    "changelog": "Versão 4.6.8 - O app agora verifica atualizações sozinho (ao abrir e 1x por dia, sem atrapalhar a gravação das 19h), rotação automática do arquivo de log, e o atualizador renovado (recuperação automática se o update falhar no meio) passa a ser entregue pelo próprio canal de atualização."
+    "changelog": "Versão 4.6.9 - Correção de fuso horário: a gravação automática agora segue o horário de Brasília em qualquer região do país. Clientes fora do fuso de Brasília (ex.: Mato Grosso) passam a gravar a Voz do Brasil na hora certa, sem configurar nada. Para quem está no fuso de Brasília, nada muda."
 }
