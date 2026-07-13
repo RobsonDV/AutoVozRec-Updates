@@ -1,7 +1,7 @@
 {
-    "version": "4.6.6",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.6/AutoVozRec_IA_win64.zip",
-    "sha256": "2763a06407d3082b8725a96bbf3b78f973e80b893e31667fa15100372af2859a",
+    "version": "4.6.7",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.7/AutoVozRec_IA_win64.zip",
+    "sha256": "76354c3a3e4b41edf5a99b110fa2a34227d697f0e1260e84e9f91c08c7c28498",
     "mandatory": false,
-    "changelog": "Versão 4.6.6 - Reforço de estabilidade e redundância: scheduler não trava mais por erro isolado e recupera atrasos (PC suspenso), sistema não hiberna mais durante a automação, bandeja do sistema se recupera de falha, dados locais (sessão/estado/config) protegidos contra corrupção, correção no vínculo de licença por HWID, atualização agora exige verificação sha256 e reverte sozinha se falhar no meio, limpeza de código morto do update legado."
+    "changelog": "Versão 4.6.7 - Aviso de atualização já na tela de login (funciona mesmo sem conseguir logar) e monitoramento remoto: o app agora reporta versão e status da gravação/download diários, permitindo suporte proativo quando algo falha."
 }
