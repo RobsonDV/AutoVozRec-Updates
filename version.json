@@ -1,7 +1,7 @@
 {
-    "version": "4.6.9",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.6.9/AutoVozRec_IA_win64.zip",
-    "sha256": "b46302ac843f5b4aba98c2e3527a9371d45b3a3ac684490e1d799f0450792d06",
-    "mandatory": false,
-    "changelog": "Versão 4.6.9 - Correção de fuso horário: a gravação automática agora segue o horário de Brasília em qualquer região do país. Clientes fora do fuso de Brasília (ex.: Mato Grosso) passam a gravar a Voz do Brasil na hora certa, sem configurar nada. Para quem está no fuso de Brasília, nada muda."
+    "version": "4.7.0",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.7.0/AutoVozRec_IA_win64.zip",
+    "sha256": "b7a6e3a2e4dfa2995c758b69d6f69b52839a058e35efe13fb319bdc43c7850d4",
+    "mandatory": true,
+    "changelog": "Versao 4.7.0\n\nCORRIGE O APP NAO ABRIR SOZINHO COM O WINDOWS. Era a causa de gravacoes perdidas: o computador reiniciava, o AutoVoz nao subia, e as 19h nao havia ninguem para abrir. Agora ele se registra na inicializacao sozinho (respeitando quem desligou de proposito), e nao trava mais quando o Windows demora a ficar pronto.\n\nGRAVA MESMO SEM INTERNET. A licenca passa a valer por 30 dias guardada no computador. Se a internet cair ou o servidor ficar fora do ar, a Voz do Brasil continua sendo gravada normalmente.\n\nNOVA TELA 'SOBRE A ASSINATURA'. Mostra seu plano, vencimento, proxima renovacao, valor do ultimo pagamento e quantas maquinas voce tem direito. Funciona ate sem internet.\n\nMAIS SEGURANCA. Seus dados cadastrais deixaram de ficar acessiveis a partir do aplicativo instalado.\n\nNada muda no seu dia a dia: mesmo login, mesmo horario, mesma pasta."
 }
