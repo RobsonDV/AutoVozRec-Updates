@@ -1,7 +1,7 @@
 {
-    "version": "4.7.0",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.7.0/AutoVozRec_IA_win64.zip",
-    "sha256": "b7a6e3a2e4dfa2995c758b69d6f69b52839a058e35efe13fb319bdc43c7850d4",
+    "version": "4.7.2",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.7.2/AutoVozRec_IA_win64.zip",
+    "sha256": "cdbf52e37b738487d6484c0bf7fc694c5996a43d5cb261f234b93ec62fd8a693",
     "mandatory": true,
-    "changelog": "Versao 4.7.0\n\nCORRIGE O APP NAO ABRIR SOZINHO COM O WINDOWS. Era a causa de gravacoes perdidas: o computador reiniciava, o AutoVoz nao subia, e as 19h nao havia ninguem para abrir. Agora ele se registra na inicializacao sozinho (respeitando quem desligou de proposito), e nao trava mais quando o Windows demora a ficar pronto.\n\nGRAVA MESMO SEM INTERNET. A licenca passa a valer por 30 dias guardada no computador. Se a internet cair ou o servidor ficar fora do ar, a Voz do Brasil continua sendo gravada normalmente.\n\nNOVA TELA 'SOBRE A ASSINATURA'. Mostra seu plano, vencimento, proxima renovacao, valor do ultimo pagamento e quantas maquinas voce tem direito. Funciona ate sem internet.\n\nMAIS SEGURANCA. Seus dados cadastrais deixaram de ficar acessiveis a partir do aplicativo instalado.\n\nNada muda no seu dia a dia: mesmo login, mesmo horario, mesma pasta."
+    "changelog": "Versao 4.7.2\n\nARQUIVO CONFERIDO ANTES DE IR PARA A GRADE. O download da Voz do Brasil so e aceito com pelo menos 58 minutos. Arquivo incompleto nunca mais substitui o seu.\n\nGRAVACAO COM RESERVA NO SERVIDOR. Alem da gravacao no seu computador, a Voz do Brasil passa a ser gravada e conferida no nosso servidor. Se a gravacao local falhar, ou se o computador estiver desligado as 19h, o AutoVoz busca a gravacao do servidor sozinho.\n\nCORRIGE 'ACESSO NEGADO' NA PASTA DE DESTINO. Pastas dentro de Arquivos de Programas voltam a funcionar.\n\nABRE SOZINHO ANTES DAS 19H. Se o AutoVoz tiver sido fechado durante o dia, ele abre de novo as 18:45.\n\nNada muda no seu dia a dia: mesmo login, mesmo horario, mesma pasta."
 }
