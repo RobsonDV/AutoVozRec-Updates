@@ -1,7 +1,7 @@
 {
-    "version": "4.7.2",
-    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.7.2/AutoVozRec_IA_win64.zip",
-    "sha256": "cdbf52e37b738487d6484c0bf7fc694c5996a43d5cb261f234b93ec62fd8a693",
+    "version": "4.7.3",
+    "download_url": "https://github.com/RobsonDV/AutoVozRec-Updates/releases/download/v4.7.3/AutoVozRec_IA_win64.zip",
+    "sha256": "4308a079a983573499a4aca99d73d4de2862d296c00be9c8754252a3ce0a5256",
     "mandatory": true,
-    "changelog": "Versao 4.7.2\n\nARQUIVO CONFERIDO ANTES DE IR PARA A GRADE. O download da Voz do Brasil so e aceito com pelo menos 58 minutos. Arquivo incompleto nunca mais substitui o seu.\n\nGRAVACAO COM RESERVA NO SERVIDOR. Alem da gravacao no seu computador, a Voz do Brasil passa a ser gravada e conferida no nosso servidor. Se a gravacao local falhar, ou se o computador estiver desligado as 19h, o AutoVoz busca a gravacao do servidor sozinho.\n\nCORRIGE 'ACESSO NEGADO' NA PASTA DE DESTINO. Pastas dentro de Arquivos de Programas voltam a funcionar.\n\nABRE SOZINHO ANTES DAS 19H. Se o AutoVoz tiver sido fechado durante o dia, ele abre de novo as 18:45.\n\nNada muda no seu dia a dia: mesmo login, mesmo horario, mesma pasta."
+    "changelog": "Versao 4.7.3\n\nPART1 CONFERIDA DEPOIS DAS 19H30. Depois que a gravacao termina, o AutoVoz olha o arquivo autovoz_Part1.mp3 da pasta da grade. Se estiver ausente, curto, de outro dia ou corrompido, ele busca a Part1 correta no nosso servidor e troca sozinho, mesmo que o programa tenha sido aberto atrasado ou a gravacao local tenha falhado.\n\nPARA DE INSISTIR DEPOIS DAS 22H. A Voz do Brasil so pode ser veiculada ate as 22h; depois disso o AutoVoz nao tenta mais baixar nem conferir arquivos.\n\nNada muda no seu dia a dia: mesmo login, mesmo horario, mesma pasta."
 }
